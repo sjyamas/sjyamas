@@ -1,4 +1,9 @@
-## Hi there 👋
+## My portfolio
+[https://shoheis-personal-site.netlify.app/](https://shoheis-personal-site.netlify.app/)
+
+## My website for IRL tools I use
+[boofman.com](boofman.com)
+
 
 <!--
 **sjyamas/sjyamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
