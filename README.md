@@ -2,7 +2,7 @@
 [https://shoheis-personal-site.netlify.app/](https://shoheis-personal-site.netlify.app/)
 
 ## My website for IRL tools I use
-[boofman.com](boofman.com)
+[https://www.boofman.com/](https://www.boofman.com/)
 
 
 <!--
