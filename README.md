@@ -1,5 +1,5 @@
 ## My portfolio
-[https://shoheis-personal-site.netlify.app/](https://shoheis-personal-site.netlify.app/)
+[https://www.sjyamash.com/](https://www.sjyamash.com/)
 
 ## My website for IRL tools I use
 [https://www.boofman.com/](https://www.boofman.com/)
